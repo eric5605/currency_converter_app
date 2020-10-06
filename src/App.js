@@ -22,7 +22,7 @@ const App = () => {
   return (
     <Router>
       <div className="container">
-        <h2>React Router Demo</h2>
+        <h2>Currency Converter</h2>
         <nav>
           <ul>
             <li>
